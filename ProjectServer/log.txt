@@ -1,0 +1,514 @@
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737218748
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737218750
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737218751
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737218753
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737218754
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737218755
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737218755
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737218757
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737218886
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737218888
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737218890
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737218891
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737218892
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737218893
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232531
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232533
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232535
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232536
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232541
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232541
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232542
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232543
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737232545
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232546
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232547
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232548
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232549
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232550
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232551
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232551
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232552
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232552
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232552
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232552
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232557
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232562
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232563
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232563
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232564
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232565
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232566
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232567
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737232567
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232568
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232569
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232570
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737232571
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737232571
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737232572
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232573
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737232574
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232575
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232575
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232576
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232577
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232578
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232581
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737232582
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232582
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232583
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232584
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737232586
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232586
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232587
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737232588
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232589
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232590
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232594
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232596
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232597
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232598
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232602
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232603
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232603
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232604
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232605
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737232606
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232607
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232607
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737232608
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232609
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232610
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232610
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232611
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737232612
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232613
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232614
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737232615
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737232616
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737295376
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737295377
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737295378
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737301217
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737301219
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737301221
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737301222
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737301223
+Log file created. Server started.
+Player ID: 0, Action: =, Timestamp: 1737309644
+Log file created. Server started.
+Player ID: 0, Action: %e3, Timestamp: 1737309644
+Log file created. Server started.
+Player ID: 0, Action: c, Timestamp: 1737310403
+Log file created. Server started.
+Player ID: 0, Action: O, Timestamp: 1737310404
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311105
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311107
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311109
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311110
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737311111
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311113
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737311116
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311118
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311118
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311118
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311118
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311122
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311123
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311123
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311123
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311123
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311123
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311124
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311124
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311125
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737311125
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737311126
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311126
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311127
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311127
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311128
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311128
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311128
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311128
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311129
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311129
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311129
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737311129
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311130
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311130
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311130
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311130
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311130
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311131
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311131
+Log file created. Server started.
+Player ID: 0, Action: %e3, Timestamp: 1737311158
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737311990
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737311992
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737311993
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737311993
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737311994
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737311995
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737311996
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737311997
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737312030
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737312031
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737312032
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737312033
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737312033
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737312034
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737312035
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737312036
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737312037
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737312037
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737312039
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737312040
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737312040
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737312041
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737312042
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737312043
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737312043
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737312044
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737312045
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737312046
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737312047
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737312048
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323179
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323179
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323179
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323179
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737323179
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323180
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323180
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737323180
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323180
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323181
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323181
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737323181
+Log file created. Server started.
+Player ID: 0, Action: a, Timestamp: 1737323181
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323181
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323182
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323182
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323182
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323182
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323182
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323183
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323183
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323183
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323183
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323184
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323184
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323184
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323184
+Log file created. Server started.
+Player ID: 0, Action: %e3, Timestamp: 1737323185
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323295
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323295
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323295
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323295
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323296
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323296
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737323296
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323296
+Log file created. Server started.
+Player ID: 0, Action: w, Timestamp: 1737323297
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323297
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323297
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323297
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323298
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323298
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323298
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323298
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323298
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323299
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323299
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323299
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323299
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323299
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323300
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323300
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323300
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323300
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1737323300
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323301
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323301
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323301
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737323301
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323302
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737323302
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1737323302
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323302
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323302
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323303
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323303
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323303
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323303
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323303
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323304
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323304
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1737323304
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1738318448
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1738318449
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1738318451
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1738318453
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1738318454
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1738318455
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1738318456
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1738318457
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1738318459
+Log file created. Server started.
+Player ID: 0, Action: s, Timestamp: 1738318462
+Log file created. Server started.
+Player ID: 0, Action: d, Timestamp: 1738318463
+Log file created. Server started.
+Player ID: 0, Action: f, Timestamp: 1738318463
+Log file created. Server started.
+Player ID: 0, Action: 1, Timestamp: 1738318466
